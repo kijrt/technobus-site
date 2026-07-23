@@ -1,0 +1,9 @@
+{
+  "name": "technobus-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TechnoBus — лендинг вантажних перевезень по Києву",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
